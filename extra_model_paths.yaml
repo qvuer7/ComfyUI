@@ -1,5 +1,5 @@
 comfyui:
-    base_path: /workspace/comfyui/models/
+    base_path: /workspace/models/comfyui/
     # You can use is_default to mark that these folders should be listed first, and used as the default dirs for eg downloads
     #is_default: true
     checkpoints: checkpoints/
