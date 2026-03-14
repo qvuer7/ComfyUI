@@ -1,5 +1,6 @@
+# base_path supports env vars (ComfyUI uses os.path.expandvars). Set WEIGHTS_ROOT_DIR when starting ComfyUI (e.g. /workspace/models).
 comfyui:
-    base_path: /workspace/models/comfyui/
+    base_path: ${WEIGHTS_ROOT_DIR}/comfyui/
     # You can use is_default to mark that these folders should be listed first, and used as the default dirs for eg downloads
     #is_default: true
     checkpoints: checkpoints/
