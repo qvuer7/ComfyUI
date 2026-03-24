@@ -1,0 +1,9 @@
+[submodule "custom_nodes/ComfyUI-LTXVideo"]
+	path = custom_nodes/ComfyUI-LTXVideo
+	url = https://github.com/Lightricks/ComfyUI-LTXVideo.git
+[submodule "custom_nodes/ComfyMath"]
+	path = custom_nodes/ComfyMath
+	url = https://github.com/evanspearman/ComfyMath.git
+[submodule "custom_nodes/comfyui-essentials"]
+	path = custom_nodes/comfyui-essentials
+	url = https://github.com/comfyorg/comfyui-essentials.git
